@@ -1,5 +1,5 @@
-Projet pour découvrir Ionic avec Loïc.
-
+Projet réalisé afin de découvrir Angular et Ionic.
+Le projet consiste à :
 <hr>
 
 Fonctionnalités : 
